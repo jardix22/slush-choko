@@ -1,0 +1,23 @@
+{
+  "name": "slush-choko",
+  "version": "0.0.1",
+  "description": "Slush generator for Choko.",
+  "main": "slushfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slushgenerator",
+    "web",
+    "app",
+    "choko",
+    "gulp"
+  ],
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-conflict": "^0.4.0",
+    "gulp-install": "^0.6.0",
+    "gulp-template": "^3.1.0",
+    "inquirer": "^0.11.0"
+  }
+}
