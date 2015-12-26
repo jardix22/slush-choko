@@ -14,10 +14,14 @@
     "gulp"
   ],
   "devDependencies": {
+    "event-stream": "^3.3.2",
     "gulp": "^3.9.0",
     "gulp-conflict": "^0.4.0",
     "gulp-install": "^0.6.0",
+    "gulp-json-editor": "^2.2.1",
+    "gulp-rename": "^1.2.2",
     "gulp-template": "^3.1.0",
-    "inquirer": "^0.11.0"
+    "inquirer": "^0.11.0",
+    "underscore.string": "^3.2.2"
   }
 }
