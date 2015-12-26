@@ -1,0 +1,5 @@
+{
+  "title": "<%= classifyName %> extension",
+  "description": "<%= classifyName %> description.",
+  "dependecies": []
+}
